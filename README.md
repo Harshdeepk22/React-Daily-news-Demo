@@ -1,19 +1,6 @@
 # SSR News - React
 
-React Server Side Rendering demo project. This project uses [News API](https://newsapi.org/) under the hood.
 
-Demo: [Click to see DEMO](https://react-ssr-ilker.herokuapp.com/)
-
-![SSR News](https://i.imgur.com/F3AT7v0.jpg)
-
-## Getting Started
-
-This project created for a Meetup talk about Server Side Rendering with React.
-
-There is also a SPA version of same project.
-
-- [Visit Repo](https://github.com/ilkeraltin/react-spa-news)
-- [Click to see DEMO](https://react-spa-ilker.herokuapp.com/)
 
 ### Installing
 
@@ -52,11 +39,4 @@ Deployment build
 $ npm run build:prod
 ```
 
-You can deploy this project to:
 
-- [Heroku](https://www.heroku.com/)
-
-## Built With
-
-- [React](https://reactjs.org/)
-- [Node.js](https://nodejs.org/)
