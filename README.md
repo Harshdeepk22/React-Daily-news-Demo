@@ -1,16 +1,4 @@
-# SSR News - React
 
-
-
-### Installing
-
-First clone project and install dependencies
-
-```sh
-$ mkdir react-news && cd react-news
-$ git clone https://github.com/ilkeraltin/react-ssr-news.git
-$ npm install
-```
 
 
 Navigate to [News API](https://newsapi.org/) and grab your API key.
